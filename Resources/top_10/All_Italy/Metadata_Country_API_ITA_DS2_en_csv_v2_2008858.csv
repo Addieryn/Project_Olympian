@@ -1,0 +1,2 @@
+﻿"Country Code","Region","IncomeGroup","SpecialNotes","TableName",
+"ITA","Europe & Central Asia","High income","A simple multiplier is used to convert the national currencies of EMU members to euros. The following irrevocable euro conversion rate was adopted by the EU Council on January 1, 1999: 1 euro = 1936.27 Italian lira. Please note that historical data before 1999 are not actual euros and are not comparable or suitable for aggregation across countries.","Italy",
