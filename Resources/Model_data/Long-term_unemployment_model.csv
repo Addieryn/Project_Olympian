@@ -1,0 +1,1327 @@
+﻿REF_AREA,Reference area,Age,TIME_PERIOD,Long-term_unemployment_%_of_labor
+GRC,Greece,Middle-aged,2004,5.202932435
+GRC,Greece,Middle-aged,2005,4.958358218
+GRC,Greece,Middle-aged,2006,4.578013424
+GRC,Greece,Middle-aged,2007,4.029568629
+GRC,Greece,Middle-aged,2008,3.577062550
+GRC,Greece,Middle-aged,2009,3.797458214
+GRC,Greece,Middle-aged,2010,5.601375429
+GRC,Greece,Middle-aged,2011,8.700100155
+GRC,Greece,Middle-aged,2012,14.322297073
+GRC,Greece,Middle-aged,2013,18.557383170
+GRC,Greece,Middle-aged,2014,19.467292906
+GRC,Greece,Middle-aged,2015,18.160088883
+GRC,Greece,Middle-aged,2016,16.672583494
+GRC,Greece,Middle-aged,2017,15.273751694
+GRC,Greece,Middle-aged,2018,13.377818174
+GRC,Greece,Middle-aged,2019,12.038426683
+GRC,Greece,Middle-aged,2020,10.776046609
+GRC,Greece,Middle-aged,2021,9.184138930
+GRC,Greece,Middle-aged,2022,7.769552411
+NOR,Norway,Middle-aged,2004,0.893652970
+NOR,Norway,Middle-aged,2005,0.907685089
+NOR,Norway,Middle-aged,2006,0.805691416
+NOR,Norway,Middle-aged,2007,0.451080015
+NOR,Norway,Middle-aged,2008,0.330940799
+NOR,Norway,Middle-aged,2009,0.534673150
+NOR,Norway,Middle-aged,2010,0.724570473
+NOR,Norway,Middle-aged,2011,0.796210289
+NOR,Norway,Middle-aged,2012,0.645471077
+NOR,Norway,Middle-aged,2013,0.733624405
+NOR,Norway,Middle-aged,2014,0.871314730
+NOR,Norway,Middle-aged,2015,1.131201177
+NOR,Norway,Middle-aged,2016,1.298972142
+NOR,Norway,Middle-aged,2017,1.230905162
+NOR,Norway,Middle-aged,2018,1.103569611
+NOR,Norway,Middle-aged,2019,0.916257109
+NOR,Norway,Middle-aged,2020,0.952597792
+NOR,Norway,Middle-aged,2021,1.164369863
+NOR,Norway,Middle-aged,2022,0.664944425
+CAN,Canada,Middle-aged,2004,0.699709022
+CAN,Canada,Middle-aged,2005,0.651655131
+CAN,Canada,Middle-aged,2006,0.556225097
+CAN,Canada,Middle-aged,2007,0.459917604
+CAN,Canada,Middle-aged,2008,0.450246138
+CAN,Canada,Middle-aged,2009,0.617945011
+CAN,Canada,Middle-aged,2010,0.954794294
+CAN,Canada,Middle-aged,2011,0.934379457
+CAN,Canada,Middle-aged,2012,0.848676956
+CAN,Canada,Middle-aged,2013,0.869066115
+CAN,Canada,Middle-aged,2014,0.805204574
+CAN,Canada,Middle-aged,2015,0.718892567
+CAN,Canada,Middle-aged,2016,0.737759945
+CAN,Canada,Middle-aged,2017,0.645913801
+CAN,Canada,Middle-aged,2018,0.500628495
+CAN,Canada,Middle-aged,2019,0.431643646
+CAN,Canada,Middle-aged,2020,0.428562647
+CAN,Canada,Middle-aged,2021,1.072966500
+CAN,Canada,Middle-aged,2022,0.513870620
+AUT,Austria,Young,2004,1.814353712
+AUT,Austria,Young,2005,1.461086384
+AUT,Austria,Young,2006,1.532546947
+AUT,Austria,Young,2007,1.264224723
+AUT,Austria,Young,2008,1.166079677
+AUT,Austria,Young,2009,1.353034410
+AUT,Austria,Young,2010,1.612958836
+AUT,Austria,Young,2011,1.278995468
+AUT,Austria,Young,2012,1.370640937
+AUT,Austria,Young,2013,1.435733566
+AUT,Austria,Young,2014,1.391843620
+AUT,Austria,Young,2015,1.675264633
+AUT,Austria,Young,2016,2.035785822
+AUT,Austria,Young,2017,1.486393608
+AUT,Austria,Young,2018,1.301161522
+AUT,Austria,Young,2019,1.526230339
+AUT,Austria,Young,2020,1.230272896
+AUT,Austria,Young,2021,1.706219130
+AUT,Austria,Young,2022,1.074993809
+SWE,Sweden,Middle-aged,2004,1.084496738
+SWE,Sweden,Middle-aged,2007,0.723756258
+SWE,Sweden,Middle-aged,2008,0.673362939
+SWE,Sweden,Middle-aged,2009,0.968200740
+SWE,Sweden,Middle-aged,2010,1.404424880
+SWE,Sweden,Middle-aged,2011,1.319481216
+SWE,Sweden,Middle-aged,2012,1.3068
+SWE,Sweden,Middle-aged,2013,1.335110728
+SWE,Sweden,Middle-aged,2014,1.325896334
+SWE,Sweden,Middle-aged,2015,1.259724036
+SWE,Sweden,Middle-aged,2016,1.120060564
+SWE,Sweden,Middle-aged,2017,1.050436452
+SWE,Sweden,Middle-aged,2018,0.918429847
+SWE,Sweden,Middle-aged,2019,0.774917034
+SWE,Sweden,Middle-aged,2020,0.983625755
+SWE,Sweden,Middle-aged,2021,1.600968998
+SWE,Sweden,Middle-aged,2022,1.527297464
+IRL,Ireland,Middle-aged,2004,1.440281358
+IRL,Ireland,Middle-aged,2005,1.326048311
+IRL,Ireland,Middle-aged,2006,1.326154510
+IRL,Ireland,Middle-aged,2007,1.428637893
+IRL,Ireland,Middle-aged,2008,1.656408765
+IRL,Ireland,Middle-aged,2009,3.276477604
+IRL,Ireland,Middle-aged,2010,6.638820525
+IRL,Ireland,Middle-aged,2011,8.773869989
+IRL,Ireland,Middle-aged,2012,8.978819536
+IRL,Ireland,Middle-aged,2013,7.924439608
+IRL,Ireland,Middle-aged,2014,6.638474489
+IRL,Ireland,Middle-aged,2015,5.328823087
+COL,Colombia,Young,2004,7.005116727
+COL,Colombia,Young,2005,5.663268964
+COL,Colombia,Young,2007,1.920067277
+COL,Colombia,Young,2008,1.826998916
+COL,Colombia,Young,2009,2.041218308
+COL,Colombia,Young,2010,2.074090557
+COL,Colombia,Young,2011,1.539182095
+COL,Colombia,Young,2012,1.311935177
+COL,Colombia,Young,2013,1.084029958
+COL,Colombia,Young,2014,1.151123881
+COL,Colombia,Young,2015,0.893616338
+COL,Colombia,Young,2016,0.804964320
+COL,Colombia,Young,2017,0.980349143
+COL,Colombia,Young,2018,1.300695541
+COL,Colombia,Young,2019,1.743174935
+COL,Colombia,Young,2020,1.687286910
+COL,Colombia,Young,2021,3.022759132
+COL,Colombia,Young,2022,1.877118589
+SVK,Slovak Republic,Young,2004,15.956046938
+SVK,Slovak Republic,Young,2005,16.913488613
+SVK,Slovak Republic,Young,2006,15.311151214
+SVK,Slovak Republic,Young,2007,10.837858478
+SVK,Slovak Republic,Young,2008,9.213680327
+SVK,Slovak Republic,Young,2009,10.389740928
+SVK,Slovak Republic,Young,2010,16.901027015
+SVK,Slovak Republic,Young,2011,16.755875263
+SVK,Slovak Republic,Young,2012,17.821150020
+SVK,Slovak Republic,Young,2013,19.392592248
+SVK,Slovak Republic,Young,2014,16.010116483
+SVK,Slovak Republic,Young,2015,13.538884904
+SVK,Slovak Republic,Young,2016,9.936115986
+SVK,Slovak Republic,Young,2017,7.913231101
+SVK,Slovak Republic,Young,2018,6.458891428
+SVK,Slovak Republic,Young,2019,6.041405617
+SVK,Slovak Republic,Young,2020,7.123082174
+SVK,Slovak Republic,Young,2021,9.018051063
+SVK,Slovak Republic,Young,2022,9.497375908
+FRA,France,Middle-aged,2004,3.424315896
+FRA,France,Middle-aged,2005,3.521290673
+FRA,France,Middle-aged,2006,3.483069023
+FRA,France,Middle-aged,2007,3.004282252
+FRA,France,Middle-aged,2008,2.564070277
+FRA,France,Middle-aged,2009,2.832445075
+FRA,France,Middle-aged,2010,3.339411134
+FRA,France,Middle-aged,2011,3.512591279
+FRA,France,Middle-aged,2012,3.589984460
+FRA,France,Middle-aged,2013,3.858499898
+FRA,France,Middle-aged,2014,4.039168587
+FRA,France,Middle-aged,2015,4.132710149
+FRA,France,Middle-aged,2016,4.128763018
+FRA,France,Middle-aged,2017,3.894314604
+FRA,France,Middle-aged,2018,3.439624664
+FRA,France,Middle-aged,2019,2.887640519
+FRA,France,Middle-aged,2020,2.663089695
+FRA,France,Middle-aged,2021,2.138492708
+FRA,France,Middle-aged,2022,1.820999200
+USA,United States,Young,2004,0.937187108
+USA,United States,Young,2005,0.811986901
+USA,United States,Young,2006,0.665356792
+USA,United States,Young,2007,0.688661836
+USA,United States,Young,2008,0.907449862
+USA,United States,Young,2009,2.139474860
+USA,United States,Young,2010,3.363170124
+USA,United States,Young,2011,3.374964796
+USA,United States,Young,2012,2.952091621
+USA,United States,Young,2013,2.479659946
+USA,United States,Young,2014,1.859007708
+USA,United States,Young,2015,1.325088844
+USA,United States,Young,2016,1.079985533
+USA,United States,Young,2017,0.751023006
+USA,United States,Young,2018,0.629392363
+USA,United States,Young,2019,0.663774011
+USA,United States,Young,2020,0.703449054
+USA,United States,Young,2021,1.270731380
+USA,United States,Young,2022,0.726213785
+BEL,Belgium,Middle-aged,2004,4.094664212
+BEL,Belgium,Middle-aged,2005,4.332838179
+BEL,Belgium,Middle-aged,2006,4.095844417
+BEL,Belgium,Middle-aged,2007,3.613338919
+BEL,Belgium,Middle-aged,2008,3.135907686
+BEL,Belgium,Middle-aged,2009,3.253992146
+BEL,Belgium,Middle-aged,2010,3.828300133
+BEL,Belgium,Middle-aged,2011,3.260122272
+BEL,Belgium,Middle-aged,2012,3.151547866
+BEL,Belgium,Middle-aged,2013,3.571033449
+BEL,Belgium,Middle-aged,2014,3.984838142
+BEL,Belgium,Middle-aged,2015,4.099435348
+BEL,Belgium,Middle-aged,2016,3.797632899
+BEL,Belgium,Middle-aged,2017,3.219680183
+BEL,Belgium,Middle-aged,2018,2.776989440
+BEL,Belgium,Middle-aged,2019,2.201563300
+BEL,Belgium,Middle-aged,2020,2.141800622
+BEL,Belgium,Middle-aged,2021,2.522253977
+BEL,Belgium,Middle-aged,2022,2.271023445
+MEX,Mexico,Middle-aged,2004,0.047148073
+MEX,Mexico,Middle-aged,2005,0.073222178
+MEX,Mexico,Middle-aged,2006,0.053192280
+MEX,Mexico,Middle-aged,2007,0.060055005
+MEX,Mexico,Middle-aged,2008,0.060656503
+MEX,Mexico,Middle-aged,2009,0.079521790
+MEX,Mexico,Middle-aged,2010,0.109211940
+MEX,Mexico,Middle-aged,2011,0.112685800
+MEX,Mexico,Middle-aged,2012,0.090472219
+MEX,Mexico,Middle-aged,2013,0.071164947
+MEX,Mexico,Middle-aged,2014,0.084719327
+MEX,Mexico,Middle-aged,2015,0.070514228
+MEX,Mexico,Middle-aged,2016,0.069403793
+MEX,Mexico,Middle-aged,2017,0.068010899
+MEX,Mexico,Middle-aged,2018,0.047469896
+MEX,Mexico,Middle-aged,2019,0.061831840
+MEX,Mexico,Middle-aged,2020,0.062904702
+MEX,Mexico,Middle-aged,2021,0.198576054
+MEX,Mexico,Middle-aged,2022,0.100989323
+PRT,Portugal,Middle-aged,2004,2.856250848
+PRT,Portugal,Middle-aged,2005,3.678502093
+PRT,Portugal,Middle-aged,2006,3.932910523
+PRT,Portugal,Middle-aged,2007,3.843989855
+PRT,Portugal,Middle-aged,2008,3.588876651
+PRT,Portugal,Middle-aged,2009,4.223167836
+PRT,Portugal,Middle-aged,2010,5.778866278
+PRT,Portugal,Middle-aged,2011,6.163013129
+PRT,Portugal,Middle-aged,2012,7.545070122
+PRT,Portugal,Middle-aged,2013,9.133633501
+PRT,Portugal,Middle-aged,2014,7.923165582
+PRT,Portugal,Middle-aged,2015,6.781650627
+SVN,Slovenia,Middle-aged,2004,2.940913513
+SVN,Slovenia,Middle-aged,2005,2.825767533
+SVN,Slovenia,Middle-aged,2006,2.876812913
+SVN,Slovenia,Middle-aged,2007,2.215393685
+SVN,Slovenia,Middle-aged,2008,1.761514118
+SVN,Slovenia,Middle-aged,2009,1.657585621
+SVN,Slovenia,Middle-aged,2010,3.102977791
+SVN,Slovenia,Middle-aged,2011,3.581322786
+SVN,Slovenia,Middle-aged,2012,4.205520678
+SVN,Slovenia,Middle-aged,2013,5.047074074
+SVN,Slovenia,Middle-aged,2014,5.213061635
+SVN,Slovenia,Middle-aged,2015,4.648618934
+SVN,Slovenia,Middle-aged,2016,4.051970906
+SVN,Slovenia,Middle-aged,2017,3.003711893
+SVN,Slovenia,Middle-aged,2018,2.123915324
+SVN,Slovenia,Middle-aged,2019,1.790788296
+SVN,Slovenia,Middle-aged,2020,1.772201422
+SVN,Slovenia,Middle-aged,2021,1.746246188
+SVN,Slovenia,Middle-aged,2022,1.601115450
+NZL,New Zealand,Young,2004,0.549053955
+NZL,New Zealand,Young,2005,0.279538417
+NZL,New Zealand,Young,2006,0.334475182
+NZL,New Zealand,Young,2007,0.240425900
+NZL,New Zealand,Young,2008,0.208099911
+NZL,New Zealand,Young,2009,0.468699309
+NZL,New Zealand,Young,2010,0.798585756
+NZL,New Zealand,Young,2011,0.677570717
+NZL,New Zealand,Young,2012,1.150619541
+NZL,New Zealand,Young,2013,1.006814814
+NZL,New Zealand,Young,2014,1.064000019
+NZL,New Zealand,Young,2015,0.991165652
+NZL,New Zealand,Young,2016,0.851729374
+NZL,New Zealand,Young,2017,0.843551719
+NZL,New Zealand,Young,2018,0.712519741
+NZL,New Zealand,Young,2019,0.567803063
+NZL,New Zealand,Young,2020,0.498196393
+NZL,New Zealand,Young,2021,0.568884706
+NZL,New Zealand,Young,2022,0.288894602
+FIN,Finland,Middle-aged,2004,1.946954157
+FIN,Finland,Middle-aged,2005,1.996681387
+FIN,Finland,Middle-aged,2006,1.762233493
+FIN,Finland,Middle-aged,2007,1.371368413
+FIN,Finland,Middle-aged,2008,1.011920530
+FIN,Finland,Middle-aged,2009,1.230529412
+FIN,Finland,Middle-aged,2010,1.884907482
+FIN,Finland,Middle-aged,2011,1.631113393
+FIN,Finland,Middle-aged,2012,1.501592960
+FIN,Finland,Middle-aged,2013,1.605532094
+FIN,Finland,Middle-aged,2014,1.864434722
+FIN,Finland,Middle-aged,2015,2.132588417
+FIN,Finland,Middle-aged,2016,2.260692596
+FIN,Finland,Middle-aged,2017,2.006112171
+FIN,Finland,Middle-aged,2018,1.547773862
+FIN,Finland,Middle-aged,2019,1.092602984
+FIN,Finland,Middle-aged,2020,1.028682757
+FIN,Finland,Middle-aged,2021,1.647327738
+FIN,Finland,Middle-aged,2022,1.392261343
+LUX,Luxembourg,Middle-aged,2004,0.904243120
+LUX,Luxembourg,Middle-aged,2005,1.129524158
+LUX,Luxembourg,Middle-aged,2006,1.142871162
+LUX,Luxembourg,Middle-aged,2007,1.007495345
+LUX,Luxembourg,Middle-aged,2008,1.459148162
+LUX,Luxembourg,Middle-aged,2009,1.145736274
+LUX,Luxembourg,Middle-aged,2010,1.155091480
+LUX,Luxembourg,Middle-aged,2011,1.257660517
+LUX,Luxembourg,Middle-aged,2012,1.486854936
+LUX,Luxembourg,Middle-aged,2013,1.625554539
+LUX,Luxembourg,Middle-aged,2014,1.380797184
+LUX,Luxembourg,Middle-aged,2015,1.930481812
+LUX,Luxembourg,Middle-aged,2016,2.158822646
+LUX,Luxembourg,Middle-aged,2017,2.122064058
+LUX,Luxembourg,Middle-aged,2018,1.439292832
+LUX,Luxembourg,Middle-aged,2019,1.222227230
+LUX,Luxembourg,Middle-aged,2020,1.692472636
+LUX,Luxembourg,Middle-aged,2021,1.654018334
+LUX,Luxembourg,Middle-aged,2022,1.177140097
+POL,Poland,Middle-aged,2004,8.707089968
+POL,Poland,Middle-aged,2005,8.938874304
+POL,Poland,Middle-aged,2006,6.719713197
+POL,Poland,Middle-aged,2007,4.226915336
+POL,Poland,Middle-aged,2008,1.962174423
+POL,Poland,Middle-aged,2009,1.938237378
+POL,Poland,Middle-aged,2010,2.323366621
+POL,Poland,Middle-aged,2011,2.849956176
+POL,Poland,Middle-aged,2012,3.222100421
+POL,Poland,Middle-aged,2013,3.508291877
+POL,Poland,Middle-aged,2014,3.058122676
+POL,Poland,Middle-aged,2015,2.708903547
+POL,Poland,Middle-aged,2016,1.988817914
+POL,Poland,Middle-aged,2017,1.368372709
+POL,Poland,Middle-aged,2018,0.985295802
+POL,Poland,Middle-aged,2019,0.652753297
+POL,Poland,Middle-aged,2020,0.566185702
+POL,Poland,Middle-aged,2021,0.851907731
+POL,Poland,Middle-aged,2022,0.813670247
+ESP,Spain,Young,2004,4.999803807
+ESP,Spain,Young,2005,2.636530640
+ESP,Spain,Young,2006,2.104734173
+ESP,Spain,Young,2007,1.818597335
+ESP,Spain,Young,2008,2.543259512
+ESP,Spain,Young,2009,6.852041325
+ESP,Spain,Young,2010,12.114056942
+ESP,Spain,Young,2011,14.953510226
+ESP,Spain,Young,2012,18.892423522
+ESP,Spain,Young,2013,21.882761445
+ESP,Spain,Young,2014,21.526083234
+ESP,Spain,Young,2015,16.902124935
+ESP,Spain,Young,2016,12.866342434
+ESP,Spain,Young,2017,10.201909626
+ESP,Spain,Young,2018,8.183903981
+ESP,Spain,Young,2019,5.997211062
+ESP,Spain,Young,2020,6.608882616
+ESP,Spain,Young,2021,8.966385870
+ESP,Spain,Young,2022,6.079039882
+NLD,Netherlands,Young,2004,1.803469340
+NLD,Netherlands,Young,2005,2.102182591
+NLD,Netherlands,Young,2006,1.926334916
+NLD,Netherlands,Young,2007,1.180641197
+NLD,Netherlands,Young,2008,0.944139019
+NLD,Netherlands,Young,2009,1.093979134
+NLD,Netherlands,Young,2010,1.282373848
+NLD,Netherlands,Young,2011,1.406659893
+NLD,Netherlands,Young,2012,1.611291793
+NLD,Netherlands,Young,2013,2.440711883
+NLD,Netherlands,Young,2014,2.625974148
+NLD,Netherlands,Young,2015,2.346852859
+NLD,Netherlands,Young,2016,2.070650008
+NLD,Netherlands,Young,2017,1.442425135
+NLD,Netherlands,Young,2018,1.094507309
+NLD,Netherlands,Young,2019,0.765681236
+NLD,Netherlands,Young,2020,0.901219029
+NLD,Netherlands,Young,2021,0.516048052
+NLD,Netherlands,Young,2022,0.262932650
+ZAF,South Africa,Young,2004,23.212115
+ZAF,South Africa,Young,2005,20.26322987
+ZAF,South Africa,Young,2006,17.26237342
+ZAF,South Africa,Young,2007,16.81129674
+ZAF,South Africa,Young,2008,13.54005035
+ZAF,South Africa,Young,2009,14.35090459
+ZAF,South Africa,Young,2010,17.03576174
+ZAF,South Africa,Young,2011,19.31803531
+ZAF,South Africa,Young,2012,18.27270212
+ZAF,South Africa,Young,2013,18.28717603
+ZAF,South Africa,Young,2014,17.61668002
+ZAF,South Africa,Young,2015,17.87825145
+ZAF,South Africa,Young,2016,18.72942363
+ZAF,South Africa,Young,2017,19.22077998
+ZAF,South Africa,Young,2018,19.8078935
+ZAF,South Africa,Young,2019,21.81943948
+ZAF,South Africa,Young,2020,25.21825468
+ZAF,South Africa,Young,2021,31.96548849
+TUR,Türkiye,Young,2004,7.440200800
+TUR,Türkiye,Young,2005,7.146077547
+TUR,Türkiye,Young,2006,6.200471991
+TUR,Türkiye,Young,2007,5.308917519
+TUR,Türkiye,Young,2008,4.834792690
+TUR,Türkiye,Young,2009,5.618
+TUR,Türkiye,Young,2010,4.9809375
+TUR,Türkiye,Young,2011,3.577045673
+TUR,Türkiye,Young,2012,3.432927835
+TUR,Türkiye,Young,2013,3.551764294
+TUR,Türkiye,Young,2014,2.571948658
+TUR,Türkiye,Young,2015,2.567145038
+TUR,Türkiye,Young,2016,2.808834518
+TUR,Türkiye,Young,2017,3.051439663
+TUR,Türkiye,Young,2018,2.891880342
+TUR,Türkiye,Young,2019,4.325106383
+TUR,Türkiye,Young,2020,4.696365601
+TUR,Türkiye,Young,2021,4.953357270
+TUR,Türkiye,Young,2022,2.793143695
+CZE,Czechia,Middle-aged,2004,4.153128452
+CZE,Czechia,Middle-aged,2005,4.118296656
+CZE,Czechia,Middle-aged,2006,3.840456185
+CZE,Czechia,Middle-aged,2007,2.869929759
+CZE,Czechia,Middle-aged,2008,2.150247391
+CZE,Czechia,Middle-aged,2009,1.989399754
+CZE,Czechia,Middle-aged,2010,2.988250621
+CZE,Czechia,Middle-aged,2011,2.609214460
+CZE,Czechia,Middle-aged,2012,2.799181155
+CZE,Czechia,Middle-aged,2013,2.984108205
+CZE,Czechia,Middle-aged,2014,2.675477283
+CZE,Czechia,Middle-aged,2015,2.355702500
+CZE,Czechia,Middle-aged,2016,1.600465383
+CZE,Czechia,Middle-aged,2017,1.021029099
+CZE,Czechia,Middle-aged,2018,0.657298477
+CZE,Czechia,Middle-aged,2019,0.521588011
+CZE,Czechia,Middle-aged,2020,0.526072763
+CZE,Czechia,Middle-aged,2021,0.802050472
+CZE,Czechia,Middle-aged,2022,0.776600579
+LTU,Lithuania,Middle-aged,2004,5.456372557
+LTU,Lithuania,Middle-aged,2005,4.519756886
+LTU,Lithuania,Middle-aged,2006,2.582119279
+LTU,Lithuania,Middle-aged,2007,1.311174312
+LTU,Lithuania,Middle-aged,2008,1.171947456
+LTU,Lithuania,Middle-aged,2009,3.055145578
+LTU,Lithuania,Middle-aged,2010,7.296842653
+LTU,Lithuania,Middle-aged,2011,7.889326720
+LTU,Lithuania,Middle-aged,2012,6.619739260
+LTU,Lithuania,Middle-aged,2013,5.028862709
+LTU,Lithuania,Middle-aged,2014,4.650914189
+LTU,Lithuania,Middle-aged,2015,3.945196048
+LTU,Lithuania,Middle-aged,2016,2.997996511
+LTU,Lithuania,Middle-aged,2017,2.619201822
+LTU,Lithuania,Middle-aged,2018,1.816923293
+LTU,Lithuania,Middle-aged,2019,1.651977588
+LTU,Lithuania,Middle-aged,2020,2.123048683
+LTU,Lithuania,Middle-aged,2021,2.267484285
+LTU,Lithuania,Middle-aged,2022,2.071307379
+DNK,Denmark,Middle-aged,2004,1.103912493
+DNK,Denmark,Middle-aged,2005,0.952771915
+DNK,Denmark,Middle-aged,2006,0.597434083
+DNK,Denmark,Middle-aged,2007,0.445868394
+DNK,Denmark,Middle-aged,2008,0.291410278
+DNK,Denmark,Middle-aged,2009,0.596786413
+DNK,Denmark,Middle-aged,2010,1.593221004
+DNK,Denmark,Middle-aged,2011,1.842161417
+DNK,Denmark,Middle-aged,2012,2.285203494
+DNK,Denmark,Middle-aged,2013,1.937743802
+DNK,Denmark,Middle-aged,2014,1.798868698
+DNK,Denmark,Middle-aged,2015,1.841968572
+ITA,Italy,Young,2004,10.238117881
+ITA,Italy,Young,2005,10.913520728
+ITA,Italy,Young,2006,9.494652214
+ITA,Italy,Young,2007,8.360341545
+ITA,Italy,Young,2008,8.105389255
+ITA,Italy,Young,2009,10.241936037
+ITA,Italy,Young,2010,12.418292187
+ITA,Italy,Young,2011,13.912047814
+ITA,Italy,Young,2012,17.528573096
+ITA,Italy,Young,2013,21.288470758
+ITA,Italy,Young,2014,25.460139302
+ITA,Italy,Young,2015,22.468508944
+ITA,Italy,Young,2016,20.005864433
+ITA,Italy,Young,2017,18.859753610
+ITA,Italy,Young,2018,16.182299644
+ITA,Italy,Young,2019,13.938926058
+ITA,Italy,Young,2020,13.246191360
+ITA,Italy,Young,2021,14.539110210
+ITA,Italy,Young,2022,11.210819345
+AUS,Australia,Young,2004,2.186638998
+AUS,Australia,Young,2005,2.041047682
+AUS,Australia,Young,2006,1.982171841
+AUS,Australia,Young,2007,1.783083737
+AUS,Australia,Young,2008,1.726982248
+AUS,Australia,Young,2009,2.481830483
+AUS,Australia,Young,2010,2.331867982
+AUS,Australia,Young,2011,2.329281302
+AUS,Australia,Young,2012,2.429903373
+AUS,Australia,Young,2013,2.569529111
+AUS,Australia,Young,2014,2.791699362
+AUS,Australia,Young,2015,2.804401238
+AUS,Australia,Young,2016,2.608556398
+AUS,Australia,Young,2017,2.468676986
+AUS,Australia,Young,2018,2.198293991
+LTU,Lithuania,Young,2004,7.035031830
+LTU,Lithuania,Young,2005,3.353000822
+LTU,Lithuania,Young,2006,2.485657871
+LTU,Lithuania,Young,2007,1.767645013
+LTU,Lithuania,Young,2008,1.374742995
+LTU,Lithuania,Young,2009,5.198573690
+LTU,Lithuania,Young,2010,10.819748105
+LTU,Lithuania,Young,2011,11.129554085
+LTU,Lithuania,Young,2012,6.771895048
+LTU,Lithuania,Young,2013,4.367087385
+LTU,Lithuania,Young,2014,4.358798669
+LTU,Lithuania,Young,2015,2.668833948
+LTU,Lithuania,Young,2016,2.283181708
+LTU,Lithuania,Young,2017,1.807693414
+LTU,Lithuania,Young,2018,1.343296587
+LTU,Lithuania,Young,2019,0.719860685
+LTU,Lithuania,Young,2020,1.912960201
+LTU,Lithuania,Young,2021,3.144893263
+LTU,Lithuania,Young,2022,2.251585585
+GBR,United Kingdom,Middle-aged,2004,0.881256252
+GBR,United Kingdom,Middle-aged,2005,0.901130345
+GBR,United Kingdom,Middle-aged,2006,1.073746829
+GBR,United Kingdom,Middle-aged,2007,1.075519523
+GBR,United Kingdom,Middle-aged,2008,1.213613153
+GBR,United Kingdom,Middle-aged,2009,1.639878516
+GBR,United Kingdom,Middle-aged,2010,2.210157390
+GBR,United Kingdom,Middle-aged,2011,2.315535107
+GBR,United Kingdom,Middle-aged,2012,2.257978148
+GBR,United Kingdom,Middle-aged,2013,2.240620372
+GBR,United Kingdom,Middle-aged,2014,1.842333804
+GBR,United Kingdom,Middle-aged,2015,1.386325211
+GBR,United Kingdom,Middle-aged,2016,1.088872229
+GBR,United Kingdom,Middle-aged,2017,0.941693732
+GBR,United Kingdom,Middle-aged,2018,0.881101109
+GBR,United Kingdom,Middle-aged,2019,0.771598447
+GBR,United Kingdom,Middle-aged,2020,0.742635886
+GBR,United Kingdom,Middle-aged,2021,0.988430106
+GBR,United Kingdom,Middle-aged,2022,0.698720297
+GBR,United Kingdom,Young,2004,1.407081700
+GBR,United Kingdom,Young,2005,1.634027497
+GBR,United Kingdom,Young,2006,1.889351520
+GBR,United Kingdom,Young,2007,2.156972738
+GBR,United Kingdom,Young,2008,2.398724891
+GBR,United Kingdom,Young,2009,3.573060423
+GBR,United Kingdom,Young,2010,4.606565377
+GBR,United Kingdom,Young,2011,5.226391574
+GBR,United Kingdom,Young,2012,5.751658663
+GBR,United Kingdom,Young,2013,5.825040415
+GBR,United Kingdom,Young,2014,4.790148637
+GBR,United Kingdom,Young,2015,3.147107618
+GBR,United Kingdom,Young,2016,2.192300763
+GBR,United Kingdom,Young,2017,1.787588632
+GBR,United Kingdom,Young,2018,1.775102473
+GBR,United Kingdom,Young,2019,1.665938944
+GBR,United Kingdom,Young,2020,1.782411802
+GBR,United Kingdom,Young,2021,2.369032295
+GBR,United Kingdom,Young,2022,1.485512135
+ISL,Iceland,Middle-aged,2004,0.248169823
+ISL,Iceland,Middle-aged,2005,0.296686660
+ISL,Iceland,Middle-aged,2006,0.208724815
+ISL,Iceland,Middle-aged,2007,0.174557715
+ISL,Iceland,Middle-aged,2008,0.107135516
+ISL,Iceland,Middle-aged,2009,0.472128545
+ISL,Iceland,Middle-aged,2010,1.625001960
+ISL,Iceland,Middle-aged,2011,1.864028532
+ISL,Iceland,Middle-aged,2012,1.704653986
+ISL,Iceland,Middle-aged,2013,1.162202725
+ISL,Iceland,Middle-aged,2014,0.740226189
+ISL,Iceland,Middle-aged,2015,0.670303899
+ISL,Iceland,Middle-aged,2016,0.290617101
+ISL,Iceland,Middle-aged,2017,0.235561711
+ISL,Iceland,Middle-aged,2018,0.295291124
+ISL,Iceland,Middle-aged,2019,0.313660211
+ISL,Iceland,Middle-aged,2020,0.792551728
+ISL,Iceland,Middle-aged,2021,1.281007083
+ISL,Iceland,Middle-aged,2022,0.475967532
+DEU,Germany,Middle-aged,2004,5.150326759
+DEU,Germany,Middle-aged,2005,5.662395669
+DEU,Germany,Middle-aged,2006,5.541701069
+DEU,Germany,Middle-aged,2007,4.586238741
+DEU,Germany,Middle-aged,2008,3.755773476
+DEU,Germany,Middle-aged,2009,3.374771788
+DEU,Germany,Middle-aged,2010,3.214774020
+DEU,Germany,Middle-aged,2011,2.679683277
+DEU,Germany,Middle-aged,2012,2.291691375
+DEU,Germany,Middle-aged,2013,2.165277080
+DEU,Germany,Middle-aged,2014,2.071366795
+DEU,Germany,Middle-aged,2015,1.937720688
+DEU,Germany,Middle-aged,2016,1.611897562
+DEU,Germany,Middle-aged,2017,1.497503880
+DEU,Germany,Middle-aged,2018,1.354284386
+DEU,Germany,Middle-aged,2019,1.143369946
+DEU,Germany,Middle-aged,2020,1.114961019
+DEU,Germany,Middle-aged,2021,1.128139073
+DEU,Germany,Middle-aged,2022,0.956528194
+ISL,Iceland,Young,2004,0.271499123
+ISL,Iceland,Young,2005,0.056766034
+ISL,Iceland,Young,2006,0.150185341
+ISL,Iceland,Young,2007,0.145016221
+ISL,Iceland,Young,2008,0.205047675
+ISL,Iceland,Young,2009,0.629145380
+ISL,Iceland,Young,2010,2.065072654
+ISL,Iceland,Young,2011,2.403777947
+ISL,Iceland,Young,2012,1.525637693
+ISL,Iceland,Young,2013,1.168532469
+ISL,Iceland,Young,2014,0.911878388
+ISL,Iceland,Young,2015,0.151835163
+ISL,Iceland,Young,2016,0.066466462
+ISL,Iceland,Young,2017,0.582107890
+ISL,Iceland,Young,2018,0.323945699
+ISL,Iceland,Young,2019,0.070366105
+ISL,Iceland,Young,2020,0.255992100
+ISL,Iceland,Young,2021,1.540883602
+ISL,Iceland,Young,2022,0.527625000
+DEU,Germany,Young,2004,3.362178613
+DEU,Germany,Young,2005,4.831324689
+DEU,Germany,Young,2006,4.514955392
+DEU,Germany,Young,2007,3.758658192
+DEU,Germany,Young,2008,3.042490517
+DEU,Germany,Young,2009,2.997541086
+DEU,Germany,Young,2010,2.601643689
+DEU,Germany,Young,2011,2.013820193
+DEU,Germany,Young,2012,1.863227322
+DEU,Germany,Young,2013,1.803407117
+DEU,Germany,Young,2014,1.786960386
+DEU,Germany,Young,2015,1.628008737
+DEU,Germany,Young,2016,1.542614595
+DEU,Germany,Young,2017,1.541507578
+DEU,Germany,Young,2018,1.380325155
+DEU,Germany,Young,2019,1.190560591
+DEU,Germany,Young,2020,1.121460003
+DEU,Germany,Young,2021,1.218584330
+DEU,Germany,Young,2022,0.960281548
+CRI,Costa Rica,Middle-aged,2012,0.803910446
+CRI,Costa Rica,Middle-aged,2013,0.936163000
+CRI,Costa Rica,Middle-aged,2014,1.183448092
+CRI,Costa Rica,Middle-aged,2015,1.335619546
+CRI,Costa Rica,Middle-aged,2016,1.334699233
+CRI,Costa Rica,Middle-aged,2017,1.123334026
+CRI,Costa Rica,Middle-aged,2018,1.377876884
+CRI,Costa Rica,Middle-aged,2019,1.471991553
+CRI,Costa Rica,Middle-aged,2020,1.231761987
+CRI,Costa Rica,Middle-aged,2021,2.988005862
+CRI,Costa Rica,Middle-aged,2022,2.436499684
+ISR,Israel,Middle-aged,2004,3.137113186
+ISR,Israel,Middle-aged,2005,2.899468378
+ISR,Israel,Middle-aged,2006,2.692461636
+ISR,Israel,Middle-aged,2007,2.143427707
+ISR,Israel,Middle-aged,2008,1.716477228
+ISR,Israel,Middle-aged,2009,1.837388454
+ISR,Israel,Middle-aged,2010,1.791903883
+ISR,Israel,Middle-aged,2011,1.385725836
+ISR,Israel,Middle-aged,2012,0.853522275
+ISR,Israel,Middle-aged,2013,0.747454454
+ISR,Israel,Middle-aged,2014,0.571869841
+ISR,Israel,Middle-aged,2015,0.531545382
+ISR,Israel,Middle-aged,2016,0.561042131
+ISR,Israel,Middle-aged,2017,0.461907384
+ISR,Israel,Middle-aged,2018,0.230820220
+ISR,Israel,Middle-aged,2019,0.190463720
+ISR,Israel,Middle-aged,2020,0.167083634
+ISR,Israel,Middle-aged,2021,0.453626722
+ISR,Israel,Middle-aged,2022,0.260637736
+NLD,Netherlands,Middle-aged,2004,1.832077484
+NLD,Netherlands,Middle-aged,2005,2.210131923
+NLD,Netherlands,Middle-aged,2006,1.901524000
+NLD,Netherlands,Middle-aged,2007,1.319228220
+NLD,Netherlands,Middle-aged,2008,0.951423030
+NLD,Netherlands,Middle-aged,2009,0.803185710
+NLD,Netherlands,Middle-aged,2010,1.155518899
+NLD,Netherlands,Middle-aged,2011,1.429194252
+NLD,Netherlands,Middle-aged,2012,1.748177488
+NLD,Netherlands,Middle-aged,2013,2.574970200
+NLD,Netherlands,Middle-aged,2014,2.887824900
+NLD,Netherlands,Middle-aged,2015,2.834867917
+NLD,Netherlands,Middle-aged,2016,2.355132368
+NLD,Netherlands,Middle-aged,2017,1.832942022
+NLD,Netherlands,Middle-aged,2018,1.290540131
+NLD,Netherlands,Middle-aged,2019,1.046671347
+NLD,Netherlands,Middle-aged,2020,0.969586939
+NLD,Netherlands,Middle-aged,2021,0.723464585
+NLD,Netherlands,Middle-aged,2022,0.494380483
+ESP,Spain,Middle-aged,2004,3.272917674
+ESP,Spain,Middle-aged,2005,2.062968350
+ESP,Spain,Middle-aged,2006,1.679997666
+ESP,Spain,Middle-aged,2007,1.523704914
+ESP,Spain,Middle-aged,2008,1.839653040
+ESP,Spain,Middle-aged,2009,3.827849533
+ESP,Spain,Middle-aged,2010,6.715753305
+ESP,Spain,Middle-aged,2011,8.306771561
+ESP,Spain,Middle-aged,2012,10.310644839
+ESP,Spain,Middle-aged,2013,12.162401117
+ESP,Spain,Middle-aged,2014,12.039286198
+ESP,Spain,Middle-aged,2015,10.661051605
+ESP,Spain,Middle-aged,2016,8.842674537
+ESP,Spain,Middle-aged,2017,7.015687089
+ESP,Spain,Middle-aged,2018,5.799865165
+ESP,Spain,Middle-aged,2019,4.873979581
+ESP,Spain,Middle-aged,2020,4.503043509
+ESP,Spain,Middle-aged,2021,5.578457941
+ESP,Spain,Middle-aged,2022,4.567798456
+DNK,Denmark,Young,2004,0.340061210
+DNK,Denmark,Young,2005,0.387876914
+DNK,Denmark,Young,2006,0.359695053
+DNK,Denmark,Young,2007,0.319666434
+DNK,Denmark,Young,2008,0.314600104
+DNK,Denmark,Young,2009,0.481513376
+DNK,Denmark,Young,2010,0.998190119
+DNK,Denmark,Young,2011,1.626271721
+DNK,Denmark,Young,2012,1.415812828
+DNK,Denmark,Young,2013,1.493089086
+DNK,Denmark,Young,2014,1.264885152
+DNK,Denmark,Young,2015,0.978413747
+MEX,Mexico,Young,2004,0.036824570
+MEX,Mexico,Young,2005,0.064615788
+MEX,Mexico,Young,2006,0.082307764
+MEX,Mexico,Young,2007,0.067272622
+MEX,Mexico,Young,2008,0.084494795
+MEX,Mexico,Young,2009,0.121442821
+MEX,Mexico,Young,2010,0.085636392
+MEX,Mexico,Young,2011,0.121063707
+MEX,Mexico,Young,2012,0.111106245
+MEX,Mexico,Young,2013,0.128392252
+MEX,Mexico,Young,2014,0.073454122
+MEX,Mexico,Young,2015,0.078126897
+MEX,Mexico,Young,2016,0.111667377
+MEX,Mexico,Young,2017,0.085157282
+MEX,Mexico,Young,2018,0.058529790
+MEX,Mexico,Young,2019,0.085546158
+MEX,Mexico,Young,2020,0.066438463
+MEX,Mexico,Young,2021,0.173007253
+MEX,Mexico,Young,2022,0.098397369
+KOR,Korea,Young,2004,0.035851932
+KOR,Korea,Young,2005,0.053050015
+KOR,Korea,Young,2006,0.037620252
+KOR,Korea,Young,2007,0.035152566
+KOR,Korea,Young,2008,0.038892260
+KOR,Korea,Young,2009,0.020263375
+KOR,Korea,Young,2011,0.006479544
+KOR,Korea,Young,2013,0.018444372
+KOR,Korea,Young,2016,0.048864330
+KOR,Korea,Young,2017,0.022185722
+KOR,Korea,Young,2018,0.023904654
+KOR,Korea,Young,2019,0.085257143
+KOR,Korea,Young,2020,0.019991758
+KOR,Korea,Young,2021,0.026296755
+KOR,Korea,Young,2022,0.058285321
+CZE,Czechia,Young,2004,7.461896739
+CZE,Czechia,Young,2005,7.419654928
+CZE,Czechia,Young,2006,6.698257511
+CZE,Czechia,Young,2007,3.609671157
+CZE,Czechia,Young,2008,3.117481802
+CZE,Czechia,Young,2009,3.437701483
+CZE,Czechia,Young,2010,5.534654223
+CZE,Czechia,Young,2011,5.496346520
+CZE,Czechia,Young,2012,6.300751250
+CZE,Czechia,Young,2013,6.308794875
+CZE,Czechia,Young,2014,4.539263573
+CZE,Czechia,Young,2015,3.890581031
+CZE,Czechia,Young,2016,2.578582573
+CZE,Czechia,Young,2017,1.572708372
+CZE,Czechia,Young,2018,1.230286042
+CZE,Czechia,Young,2019,1.322814539
+CZE,Czechia,Young,2020,1.323543469
+CZE,Czechia,Young,2021,1.223696001
+CZE,Czechia,Young,2022,1.255624904
+HUN,Hungary,Young,2004,5.314296340
+HUN,Hungary,Young,2005,6.948401650
+HUN,Hungary,Young,2006,7.123119319
+HUN,Hungary,Young,2007,6.590854920
+HUN,Hungary,Young,2008,6.285438736
+HUN,Hungary,Young,2009,7.796613220
+HUN,Hungary,Young,2010,10.309580129
+HUN,Hungary,Young,2011,9.180206690
+HUN,Hungary,Young,2012,9.140224772
+HUN,Hungary,Young,2013,8.668829579
+HUN,Hungary,Young,2014,6.901720889
+HUN,Hungary,Young,2015,4.629445295
+HUN,Hungary,Young,2016,3.576396298
+HUN,Hungary,Young,2017,2.367414865
+HUN,Hungary,Young,2018,2.561591574
+HUN,Hungary,Young,2019,2.700540164
+HUN,Hungary,Young,2020,2.804491739
+HUN,Hungary,Young,2021,3.370089958
+HUN,Hungary,Young,2022,2.390337718
+LVA,Latvia,Young,2004,5.239227335
+LVA,Latvia,Young,2005,3.355468397
+LVA,Latvia,Young,2006,2.478610551
+LVA,Latvia,Young,2007,1.175039454
+LVA,Latvia,Young,2008,1.807551119
+LVA,Latvia,Young,2009,6.898169704
+LVA,Latvia,Young,2010,11.951405266
+LVA,Latvia,Young,2011,10.175142977
+LVA,Latvia,Young,2012,8.885226109
+LVA,Latvia,Young,2013,6.816835323
+LVA,Latvia,Young,2014,4.735127520
+LVA,Latvia,Young,2015,4.419019484
+LVA,Latvia,Young,2016,4.985731105
+LVA,Latvia,Young,2017,2.467606073
+LVA,Latvia,Young,2018,2.925008538
+LVA,Latvia,Young,2019,3.026680205
+LVA,Latvia,Young,2020,1.901270175
+LVA,Latvia,Young,2021,2.052524263
+LVA,Latvia,Young,2022,1.945008544
+COL,Colombia,Middle-aged,2004,3.506766682
+COL,Colombia,Middle-aged,2005,2.798430588
+COL,Colombia,Middle-aged,2007,1.309451989
+COL,Colombia,Middle-aged,2008,1.054917825
+COL,Colombia,Middle-aged,2009,1.291861067
+COL,Colombia,Middle-aged,2010,1.327229253
+COL,Colombia,Middle-aged,2011,1.100997756
+COL,Colombia,Middle-aged,2012,0.936001909
+COL,Colombia,Middle-aged,2013,0.819424486
+COL,Colombia,Middle-aged,2014,0.787211696
+COL,Colombia,Middle-aged,2015,0.681393334
+COL,Colombia,Middle-aged,2016,0.680834065
+COL,Colombia,Middle-aged,2017,0.816494600
+COL,Colombia,Middle-aged,2018,0.983846781
+COL,Colombia,Middle-aged,2019,1.172632300
+COL,Colombia,Middle-aged,2020,1.082366478
+COL,Colombia,Middle-aged,2021,2.094634599
+COL,Colombia,Middle-aged,2022,1.501690264
+IRL,Ireland,Young,2004,2.146432934
+IRL,Ireland,Young,2005,1.894778862
+IRL,Ireland,Young,2006,1.858704900
+IRL,Ireland,Young,2007,1.920483781
+IRL,Ireland,Young,2008,2.597998064
+IRL,Ireland,Young,2009,6.238898994
+IRL,Ireland,Young,2010,11.819895309
+IRL,Ireland,Young,2011,13.823204730
+IRL,Ireland,Young,2012,14.861726804
+IRL,Ireland,Young,2013,11.021192306
+IRL,Ireland,Young,2014,9.218644110
+IRL,Ireland,Young,2015,7.780693224
+SVK,Slovak Republic,Middle-aged,2004,10.243635166
+SVK,Slovak Republic,Middle-aged,2005,10.240611944
+SVK,Slovak Republic,Middle-aged,2006,9.156352961
+SVK,Slovak Republic,Middle-aged,2007,7.517412158
+SVK,Slovak Republic,Middle-aged,2008,6.127491590
+SVK,Slovak Republic,Middle-aged,2009,5.874475227
+SVK,Slovak Republic,Middle-aged,2010,7.853505327
+SVK,Slovak Republic,Middle-aged,2011,8.072492631
+SVK,Slovak Republic,Middle-aged,2012,8.176867919
+SVK,Slovak Republic,Middle-aged,2013,8.722355080
+SVK,Slovak Republic,Middle-aged,2014,8.277038737
+SVK,Slovak Republic,Middle-aged,2015,6.736550233
+SVK,Slovak Republic,Middle-aged,2016,5.052413595
+SVK,Slovak Republic,Middle-aged,2017,4.675887044
+SVK,Slovak Republic,Middle-aged,2018,3.602047138
+SVK,Slovak Republic,Middle-aged,2019,3.047326657
+SVK,Slovak Republic,Middle-aged,2020,2.790106054
+SVK,Slovak Republic,Middle-aged,2021,3.698292335
+SVK,Slovak Republic,Middle-aged,2022,3.914409991
+FRA,France,Young,2004,4.791064363
+FRA,France,Young,2005,4.984283014
+FRA,France,Young,2006,5.568301780
+FRA,France,Young,2007,4.780573811
+FRA,France,Young,2008,4.655142437
+FRA,France,Young,2009,6.076330764
+FRA,France,Young,2010,7.003234527
+FRA,France,Young,2011,6.417473980
+FRA,France,Young,2012,6.961528969
+FRA,France,Young,2013,6.822518984
+FRA,France,Young,2014,7.078616764
+FRA,France,Young,2015,6.729557789
+FRA,France,Young,2016,6.827624411
+FRA,France,Young,2017,6.126708543
+FRA,France,Young,2018,4.898531570
+FRA,France,Young,2019,4.812526769
+FRA,France,Young,2020,4.327718419
+FRA,France,Young,2021,2.370074714
+FRA,France,Young,2022,2.002510093
+SWE,Sweden,Young,2004,1.138525695
+SWE,Sweden,Young,2007,0.666198947
+SWE,Sweden,Young,2008,0.665228779
+SWE,Sweden,Young,2009,1.064217206
+SWE,Sweden,Young,2010,1.579658312
+SWE,Sweden,Young,2011,1.334349792
+SWE,Sweden,Young,2012,1.444285398
+SWE,Sweden,Young,2013,1.335697749
+SWE,Sweden,Young,2014,1.050138523
+SWE,Sweden,Young,2015,0.891148654
+SWE,Sweden,Young,2016,0.745999032
+SWE,Sweden,Young,2017,0.797327826
+SWE,Sweden,Young,2018,0.491761654
+SWE,Sweden,Young,2019,0.399583684
+SWE,Sweden,Young,2020,0.438912801
+SWE,Sweden,Young,2021,0.779734453
+SWE,Sweden,Young,2022,0.908586124
+NOR,Norway,Young,2004,0.555639052
+NOR,Norway,Young,2005,0.647267033
+NOR,Norway,Young,2006,0.954152359
+NOR,Norway,Young,2007,0.597859736
+NOR,Norway,Young,2008,0.362517755
+NOR,Norway,Young,2009,0.659493205
+NOR,Norway,Young,2010,1.022647907
+NOR,Norway,Young,2011,1.024506378
+NOR,Norway,Young,2012,0.756837580
+NOR,Norway,Young,2013,1.005358054
+NOR,Norway,Young,2014,0.932968001
+NOR,Norway,Young,2015,1.023943399
+NOR,Norway,Young,2016,1.857453574
+NOR,Norway,Young,2017,1.813882596
+NOR,Norway,Young,2018,1.154430357
+NOR,Norway,Young,2019,0.930766424
+NOR,Norway,Young,2020,1.167032289
+NOR,Norway,Young,2021,1.022771666
+NOR,Norway,Young,2022,0.649188216
+GRC,Greece,Young,2004,12.575391366
+GRC,Greece,Young,2005,11.613165337
+GRC,Greece,Young,2006,11.953665695
+GRC,Greece,Young,2007,9.393265426
+GRC,Greece,Young,2008,7.832816140
+GRC,Greece,Young,2009,7.925893776
+GRC,Greece,Young,2010,11.676788400
+GRC,Greece,Young,2011,18.887334004
+GRC,Greece,Young,2012,27.091136349
+GRC,Greece,Young,2013,30.296152043
+GRC,Greece,Young,2014,31.500321234
+GRC,Greece,Young,2015,27.950755646
+GRC,Greece,Young,2016,25.310874868
+GRC,Greece,Young,2017,23.648488698
+GRC,Greece,Young,2018,21.320331573
+GRC,Greece,Young,2019,19.147554939
+GRC,Greece,Young,2020,19.318842606
+GRC,Greece,Young,2021,15.613198843
+GRC,Greece,Young,2022,13.533823239
+ISR,Israel,Young,2004,2.589482244
+ISR,Israel,Young,2005,2.051179449
+ISR,Israel,Young,2006,2.705135080
+ISR,Israel,Young,2007,2.148764100
+ISR,Israel,Young,2008,1.470393071
+ISR,Israel,Young,2009,2.003548943
+ISR,Israel,Young,2010,1.686945090
+ISR,Israel,Young,2011,1.040443054
+ISR,Israel,Young,2012,1.084909671
+ISR,Israel,Young,2013,0.660433876
+ISR,Israel,Young,2014,0.525462257
+ISR,Israel,Young,2015,0.450825550
+ISR,Israel,Young,2016,0.452682792
+ISR,Israel,Young,2017,0.394203053
+ISR,Israel,Young,2018,0.313973328
+ISR,Israel,Young,2019,0.242623554
+ISR,Israel,Young,2020,0.200012247
+ISR,Israel,Young,2021,0.340161538
+ISR,Israel,Young,2022,0.252162616
+EST,Estonia,Young,2004,7.834442578
+EST,Estonia,Young,2005,5.116679732
+EST,Estonia,Young,2006,2.339683203
+EST,Estonia,Young,2007,3.023319553
+EST,Estonia,Young,2008,2.830688191
+EST,Estonia,Young,2009,6.844771868
+EST,Estonia,Young,2010,11.854904836
+EST,Estonia,Young,2011,8.567572149
+EST,Estonia,Young,2012,5.917526631
+EST,Estonia,Young,2013,6.247988034
+EST,Estonia,Young,2014,4.251391229
+EST,Estonia,Young,2015,1.945343381
+EST,Estonia,Young,2016,2.612587452
+EST,Estonia,Young,2017,1.749707253
+EST,Estonia,Young,2018,0.967978759
+EST,Estonia,Young,2019,0.808168844
+EST,Estonia,Young,2020,1.053894605
+EST,Estonia,Young,2021,1.542738453
+EST,Estonia,Young,2022,0.977994308
+JPN,Japan,Young,2004,2.449668023
+JPN,Japan,Young,2005,2.044025157
+JPN,Japan,Young,2006,1.632653061
+JPN,Japan,Young,2007,1.540983607
+JPN,Japan,Young,2008,1.723585057
+JPN,Japan,Young,2009,1.957352941
+JPN,Japan,Young,2010,2.634857143
+JPN,Japan,Young,2011,2.4069
+JPN,Japan,Young,2012,2.459476190
+JPN,Japan,Young,2013,2.226852941
+JPN,Japan,Young,2014,1.622193548
+JPN,Japan,Young,2015,1.381
+JPN,Japan,Young,2016,1.771961538
+JPN,Japan,Young,2017,0.999130435
+JPN,Japan,Young,2018,0.654086957
+JPN,Japan,Young,2019,0.665636364
+JPN,Japan,Young,2020,0.88
+JPN,Japan,Young,2021,1.066846154
+JPN,Japan,Young,2022,0.969923077
+KOR,Korea,Middle-aged,2004,0.047762534
+KOR,Korea,Middle-aged,2005,0.032042705
+KOR,Korea,Middle-aged,2006,0.041803204
+KOR,Korea,Middle-aged,2007,0.021165515
+KOR,Korea,Middle-aged,2008,0.013398359
+KOR,Korea,Middle-aged,2009,0.022037346
+KOR,Korea,Middle-aged,2010,0.014972522
+KOR,Korea,Middle-aged,2011,0.017554376
+KOR,Korea,Middle-aged,2012,0.012268055
+KOR,Korea,Middle-aged,2013,0.010150781
+KOR,Korea,Middle-aged,2016,0.038631362
+KOR,Korea,Middle-aged,2017,0.059650970
+KOR,Korea,Middle-aged,2018,0.073894261
+KOR,Korea,Middle-aged,2019,0.033555210
+KOR,Korea,Middle-aged,2020,0.028733343
+KOR,Korea,Middle-aged,2021,0.055833333
+KOR,Korea,Middle-aged,2022,0.030739560
+AUT,Austria,Middle-aged,2004,1.423492693
+AUT,Austria,Middle-aged,2005,1.363980956
+AUT,Austria,Middle-aged,2006,1.373697587
+AUT,Austria,Middle-aged,2007,1.281036298
+AUT,Austria,Middle-aged,2008,0.959453803
+AUT,Austria,Middle-aged,2009,1.132575767
+AUT,Austria,Middle-aged,2010,1.163579557
+AUT,Austria,Middle-aged,2011,1.101680760
+AUT,Austria,Middle-aged,2012,1.127731321
+AUT,Austria,Middle-aged,2013,1.248323753
+AUT,Austria,Middle-aged,2014,1.520220134
+AUT,Austria,Middle-aged,2015,1.577953413
+AUT,Austria,Middle-aged,2016,1.842280506
+AUT,Austria,Middle-aged,2017,1.831258882
+AUT,Austria,Middle-aged,2018,1.332047442
+AUT,Austria,Middle-aged,2019,0.994080222
+AUT,Austria,Middle-aged,2020,1.210839774
+AUT,Austria,Middle-aged,2021,1.838360456
+AUT,Austria,Middle-aged,2022,1.092061604
+HUN,Hungary,Middle-aged,2004,2.591038623
+HUN,Hungary,Middle-aged,2005,3.106673100
+HUN,Hungary,Middle-aged,2006,3.304525144
+HUN,Hungary,Middle-aged,2007,3.400200372
+HUN,Hungary,Middle-aged,2008,3.588570842
+HUN,Hungary,Middle-aged,2009,3.907301186
+HUN,Hungary,Middle-aged,2010,5.207165591
+HUN,Hungary,Middle-aged,2011,4.857800017
+HUN,Hungary,Middle-aged,2012,4.622283485
+HUN,Hungary,Middle-aged,2013,4.557916687
+HUN,Hungary,Middle-aged,2014,3.328435217
+HUN,Hungary,Middle-aged,2015,2.844258679
+HUN,Hungary,Middle-aged,2016,2.123024461
+HUN,Hungary,Middle-aged,2017,1.539225317
+HUN,Hungary,Middle-aged,2018,1.358207820
+HUN,Hungary,Middle-aged,2019,0.971565918
+HUN,Hungary,Middle-aged,2020,0.993290470
+HUN,Hungary,Middle-aged,2021,1.130290969
+HUN,Hungary,Middle-aged,2022,1.176240658
+LVA,Latvia,Middle-aged,2004,4.926912410
+LVA,Latvia,Middle-aged,2005,4.712099440
+LVA,Latvia,Middle-aged,2006,2.335713014
+LVA,Latvia,Middle-aged,2007,1.748237515
+LVA,Latvia,Middle-aged,2008,1.895595978
+LVA,Latvia,Middle-aged,2009,4.267470866
+LVA,Latvia,Middle-aged,2010,8.630437671
+LVA,Latvia,Middle-aged,2011,8.622782476
+LVA,Latvia,Middle-aged,2012,7.639645808
+LVA,Latvia,Middle-aged,2013,5.883285640
+LVA,Latvia,Middle-aged,2014,4.833967954
+LVA,Latvia,Middle-aged,2015,4.561400111
+LVA,Latvia,Middle-aged,2016,3.978227452
+LVA,Latvia,Middle-aged,2017,3.378209587
+LVA,Latvia,Middle-aged,2018,3.024640219
+LVA,Latvia,Middle-aged,2019,2.197894504
+LVA,Latvia,Middle-aged,2020,2.124622921
+LVA,Latvia,Middle-aged,2021,2.452092528
+LVA,Latvia,Middle-aged,2022,2.056581445
+LUX,Luxembourg,Young,2004,3.392330266
+LUX,Luxembourg,Young,2005,1.915605529
+LUX,Luxembourg,Young,2006,4.852303729
+LUX,Luxembourg,Young,2007,3.486763531
+LUX,Luxembourg,Young,2008,3.867071151
+LUX,Luxembourg,Young,2009,2.075991648
+LUX,Luxembourg,Young,2010,3.655186345
+LUX,Luxembourg,Young,2011,3.770598866
+LUX,Luxembourg,Young,2012,3.596052944
+LUX,Luxembourg,Young,2013,3.563012343
+LUX,Luxembourg,Young,2014,3.172190824
+LUX,Luxembourg,Young,2015,1.482302981
+LUX,Luxembourg,Young,2016,2.876216062
+LUX,Luxembourg,Young,2017,3.151422800
+LUX,Luxembourg,Young,2018,1.189284592
+LUX,Luxembourg,Young,2019,2.037780554
+LUX,Luxembourg,Young,2020,3.069016348
+LUX,Luxembourg,Young,2021,2.803686708
+LUX,Luxembourg,Young,2022,1.782339357
+ITA,Italy,Middle-aged,2004,3.431499826
+ITA,Italy,Middle-aged,2005,3.390259780
+ITA,Italy,Middle-aged,2006,3.014483233
+ITA,Italy,Middle-aged,2007,2.623099665
+ITA,Italy,Middle-aged,2008,2.840927424
+ITA,Italy,Middle-aged,2009,3.160348600
+ITA,Italy,Middle-aged,2010,3.679144292
+ITA,Italy,Middle-aged,2011,3.959038582
+ITA,Italy,Middle-aged,2012,5.155921724
+ITA,Italy,Middle-aged,2013,6.450513771
+ITA,Italy,Middle-aged,2014,7.265414770
+ITA,Italy,Middle-aged,2015,6.606837655
+ITA,Italy,Middle-aged,2016,6.656720203
+ITA,Italy,Middle-aged,2017,6.507623750
+ITA,Italy,Middle-aged,2018,6.245584986
+ITA,Italy,Middle-aged,2019,5.732887972
+ITA,Italy,Middle-aged,2020,4.871993572
+ITA,Italy,Middle-aged,2021,5.487178975
+ITA,Italy,Middle-aged,2022,4.736028262
+ZAF,South Africa,Middle-aged,2004,14.11744781
+ZAF,South Africa,Middle-aged,2005,13.58878008
+ZAF,South Africa,Middle-aged,2006,12.13689392
+ZAF,South Africa,Middle-aged,2007,11.50391173
+ZAF,South Africa,Middle-aged,2008,10.38086535
+ZAF,South Africa,Middle-aged,2009,11.06484739
+ZAF,South Africa,Middle-aged,2010,13.12089896
+ZAF,South Africa,Middle-aged,2011,13.77486074
+ZAF,South Africa,Middle-aged,2012,13.53613936
+ZAF,South Africa,Middle-aged,2013,13.25351185
+ZAF,South Africa,Middle-aged,2014,13.6905435
+ZAF,South Africa,Middle-aged,2015,13.56473108
+ZAF,South Africa,Middle-aged,2016,14.81251466
+ZAF,South Africa,Middle-aged,2017,15.85370995
+ZAF,South Africa,Middle-aged,2018,16.11786043
+ZAF,South Africa,Middle-aged,2019,17.84029506
+ZAF,South Africa,Middle-aged,2020,17.28949321
+ZAF,South Africa,Middle-aged,2021,23.69409463
+EST,Estonia,Middle-aged,2004,5.308705967
+EST,Estonia,Middle-aged,2005,4.588656031
+EST,Estonia,Middle-aged,2006,3.184323780
+EST,Estonia,Middle-aged,2007,2.195038479
+EST,Estonia,Middle-aged,2008,1.477545529
+EST,Estonia,Middle-aged,2009,3.298681135
+EST,Estonia,Middle-aged,2010,7.328313698
+EST,Estonia,Middle-aged,2011,6.872992422
+EST,Estonia,Middle-aged,2012,5.675652964
+EST,Estonia,Middle-aged,2013,3.773853078
+EST,Estonia,Middle-aged,2014,3.301320030
+EST,Estonia,Middle-aged,2015,2.437012841
+EST,Estonia,Middle-aged,2016,1.778884794
+EST,Estonia,Middle-aged,2017,1.806697523
+EST,Estonia,Middle-aged,2018,1.201362762
+EST,Estonia,Middle-aged,2019,0.738617464
+EST,Estonia,Middle-aged,2020,1.061865646
+EST,Estonia,Middle-aged,2021,1.491348990
+EST,Estonia,Middle-aged,2022,1.242400179
+CRI,Costa Rica,Young,2012,1.694100471
+CRI,Costa Rica,Young,2013,1.626538789
+CRI,Costa Rica,Young,2014,3.215073793
+CRI,Costa Rica,Young,2015,2.601653064
+CRI,Costa Rica,Young,2016,3.280921558
+CRI,Costa Rica,Young,2017,2.883897051
+CRI,Costa Rica,Young,2018,2.871477318
+CRI,Costa Rica,Young,2019,2.225884434
+CRI,Costa Rica,Young,2020,3.554389150
+CRI,Costa Rica,Young,2021,6.566807364
+CRI,Costa Rica,Young,2022,3.091389425
+NZL,New Zealand,Middle-aged,2004,0.434601427
+NZL,New Zealand,Middle-aged,2005,0.380928089
+NZL,New Zealand,Middle-aged,2006,0.275561058
+NZL,New Zealand,Middle-aged,2007,0.222747714
+NZL,New Zealand,Middle-aged,2008,0.178962839
+NZL,New Zealand,Middle-aged,2009,0.379123718
+NZL,New Zealand,Middle-aged,2010,0.541321103
+NZL,New Zealand,Middle-aged,2011,0.587264579
+NZL,New Zealand,Middle-aged,2012,0.845623775
+NZL,New Zealand,Middle-aged,2013,0.653899468
+NZL,New Zealand,Middle-aged,2014,0.673239635
+NZL,New Zealand,Middle-aged,2015,0.670467632
+NZL,New Zealand,Middle-aged,2016,0.685913051
+NZL,New Zealand,Middle-aged,2017,0.722039789
+NZL,New Zealand,Middle-aged,2018,0.531073528
+NZL,New Zealand,Middle-aged,2019,0.461171206
+NZL,New Zealand,Middle-aged,2020,0.377127660
+NZL,New Zealand,Middle-aged,2021,0.400063366
+NZL,New Zealand,Middle-aged,2022,0.404811321
+FIN,Finland,Young,2004,1.212329439
+FIN,Finland,Young,2005,1.160340654
+FIN,Finland,Young,2006,0.960198234
+FIN,Finland,Young,2007,0.858864892
+FIN,Finland,Young,2008,0.512966657
+FIN,Finland,Young,2009,0.922227405
+FIN,Finland,Young,2010,1.554427928
+FIN,Finland,Young,2011,1.011700787
+FIN,Finland,Young,2012,1.012272727
+FIN,Finland,Young,2013,1.021664093
+FIN,Finland,Young,2014,1.108314218
+FIN,Finland,Young,2015,1.679589386
+FIN,Finland,Young,2016,1.528577226
+FIN,Finland,Young,2017,1.162839149
+FIN,Finland,Young,2018,0.948625375
+FIN,Finland,Young,2019,0.508893375
+FIN,Finland,Young,2020,0.608246761
+FIN,Finland,Young,2021,0.977992832
+FIN,Finland,Young,2022,0.329118038
+AUS,Australia,Middle-aged,2004,0.721072556
+AUS,Australia,Middle-aged,2005,0.676253814
+AUS,Australia,Middle-aged,2006,0.647659994
+AUS,Australia,Middle-aged,2007,0.635376914
+AUS,Australia,Middle-aged,2008,0.635267235
+AUS,Australia,Middle-aged,2009,0.926582693
+AUS,Australia,Middle-aged,2010,0.773598831
+AUS,Australia,Middle-aged,2011,0.758919755
+AUS,Australia,Middle-aged,2012,0.780103238
+AUS,Australia,Middle-aged,2013,0.890826386
+AUS,Australia,Middle-aged,2014,0.950763733
+AUS,Australia,Middle-aged,2015,0.947004004
+AUS,Australia,Middle-aged,2016,0.865787371
+AUS,Australia,Middle-aged,2017,0.867778957
+AUS,Australia,Middle-aged,2018,0.804223474
+TUR,Türkiye,Middle-aged,2004,3.673613832
+TUR,Türkiye,Middle-aged,2005,3.686493185
+TUR,Türkiye,Middle-aged,2006,3.217229076
+TUR,Türkiye,Middle-aged,2007,2.749140893
+TUR,Türkiye,Middle-aged,2008,2.629668870
+TUR,Türkiye,Middle-aged,2009,3.199785427
+TUR,Türkiye,Middle-aged,2010,3.201158586
+TUR,Türkiye,Middle-aged,2011,2.494023725
+TUR,Türkiye,Middle-aged,2012,2.161759124
+TUR,Türkiye,Middle-aged,2013,2.197996056
+TUR,Türkiye,Middle-aged,2014,1.962747300
+TUR,Türkiye,Middle-aged,2015,2.076293252
+TUR,Türkiye,Middle-aged,2016,2.163116536
+TUR,Türkiye,Middle-aged,2017,2.310663024
+TUR,Türkiye,Middle-aged,2018,2.432535211
+TUR,Türkiye,Middle-aged,2019,3.092939959
+TUR,Türkiye,Middle-aged,2020,3.187671498
+TUR,Türkiye,Middle-aged,2021,3.627332024
+TUR,Türkiye,Middle-aged,2022,2.510456382
+SVN,Slovenia,Young,2004,6.789684471
+SVN,Slovenia,Young,2005,5.897047125
+SVN,Slovenia,Young,2006,4.958502716
+SVN,Slovenia,Young,2007,2.952390336
+SVN,Slovenia,Young,2008,2.108262495
+SVN,Slovenia,Young,2009,2.756648909
+SVN,Slovenia,Young,2010,4.949573720
+SVN,Slovenia,Young,2011,5.541159241
+SVN,Slovenia,Young,2012,6.625147817
+SVN,Slovenia,Young,2013,8.521676859
+SVN,Slovenia,Young,2014,7.573280993
+SVN,Slovenia,Young,2015,5.831278301
+SVN,Slovenia,Young,2016,6.749275488
+SVN,Slovenia,Young,2017,3.553371190
+SVN,Slovenia,Young,2018,1.668514369
+SVN,Slovenia,Young,2019,1.778477836
+SVN,Slovenia,Young,2020,3.540198717
+SVN,Slovenia,Young,2021,2.853270458
+SVN,Slovenia,Young,2022,1.715737424
+PRT,Portugal,Young,2004,4.580335259
+PRT,Portugal,Young,2005,5.104755353
+PRT,Portugal,Young,2006,4.832512227
+PRT,Portugal,Young,2007,4.582214796
+PRT,Portugal,Young,2008,4.225183139
+PRT,Portugal,Young,2009,5.441662660
+PRT,Portugal,Young,2010,6.877744076
+PRT,Portugal,Young,2011,7.990099505
+PRT,Portugal,Young,2012,11.764477069
+PRT,Portugal,Young,2013,13.900687743
+PRT,Portugal,Young,2014,12.660821458
+PRT,Portugal,Young,2015,9.900034034
+BEL,Belgium,Young,2004,5.476784830
+BEL,Belgium,Young,2005,5.841139633
+BEL,Belgium,Young,2006,5.806732770
+BEL,Belgium,Young,2007,5.593773941
+BEL,Belgium,Young,2008,4.922555164
+BEL,Belgium,Young,2009,5.714646707
+BEL,Belgium,Young,2010,6.752898417
+BEL,Belgium,Young,2011,6.009930148
+BEL,Belgium,Young,2012,5.788387964
+BEL,Belgium,Young,2013,7.299859699
+BEL,Belgium,Young,2014,7.997353742
+BEL,Belgium,Young,2015,7.901318770
+BEL,Belgium,Young,2016,6.302257264
+BEL,Belgium,Young,2017,4.931847947
+BEL,Belgium,Young,2018,4.078736076
+BEL,Belgium,Young,2019,3.216856205
+BEL,Belgium,Young,2020,3.326952283
+BEL,Belgium,Young,2021,3.994708704
+BEL,Belgium,Young,2022,2.973582291
+USA,United States,Middle-aged,2004,0.647258698
+USA,United States,Middle-aged,2005,0.551003372
+USA,United States,Middle-aged,2006,0.415190167
+USA,United States,Middle-aged,2007,0.414293868
+USA,United States,Middle-aged,2008,0.561217925
+USA,United States,Middle-aged,2009,1.386642857
+USA,United States,Middle-aged,2010,2.708765376
+USA,United States,Middle-aged,2011,2.687247584
+USA,United States,Middle-aged,2012,2.211986209
+USA,United States,Middle-aged,2013,1.809387036
+USA,United States,Middle-aged,2014,1.317177833
+USA,United States,Middle-aged,2015,0.914959016
+USA,United States,Middle-aged,2016,0.761750059
+USA,United States,Middle-aged,2017,0.607796417
+USA,United States,Middle-aged,2018,0.465622825
+USA,United States,Middle-aged,2019,0.427903870
+USA,United States,Middle-aged,2020,0.408151918
+USA,United States,Middle-aged,2021,1.19119
+USA,United States,Middle-aged,2022,0.505443388
+JPN,Japan,Middle-aged,2004,1.509555163
+JPN,Japan,Middle-aged,2005,1.381733021
+JPN,Japan,Middle-aged,2006,1.318888366
+JPN,Japan,Middle-aged,2007,1.232657812
+JPN,Japan,Middle-aged,2008,1.352574644
+JPN,Japan,Middle-aged,2009,1.444331683
+JPN,Japan,Middle-aged,2010,1.881663317
+JPN,Japan,Middle-aged,2011,1.792080925
+JPN,Japan,Middle-aged,2012,1.6905
+JPN,Japan,Middle-aged,2013,1.711626506
+JPN,Japan,Middle-aged,2014,1.431547297
+JPN,Japan,Middle-aged,2015,1.300804348
+JPN,Japan,Middle-aged,2016,1.302464567
+JPN,Japan,Middle-aged,2017,1.166017857
+JPN,Japan,Middle-aged,2018,0.920771429
+JPN,Japan,Middle-aged,2019,0.852373737
+JPN,Japan,Middle-aged,2020,0.897157895
+JPN,Japan,Middle-aged,2021,1.115357143
+JPN,Japan,Middle-aged,2022,1.036132075
+CAN,Canada,Young,2004,0.406990905
+CAN,Canada,Young,2005,0.400012859
+CAN,Canada,Young,2006,0.249564109
+CAN,Canada,Young,2007,0.168550173
+CAN,Canada,Young,2008,0.091838833
+CAN,Canada,Young,2009,0.401671149
+CAN,Canada,Young,2010,0.573343159
+CAN,Canada,Young,2011,0.760852476
+CAN,Canada,Young,2012,0.718343959
+CAN,Canada,Young,2013,0.753013870
+CAN,Canada,Young,2014,0.763919902
+CAN,Canada,Young,2015,0.619854369
+CAN,Canada,Young,2016,0.593062904
+CAN,Canada,Young,2017,0.589162488
+CAN,Canada,Young,2018,0.404239616
+CAN,Canada,Young,2019,0.332576424
+CAN,Canada,Young,2020,0.565102479
+CAN,Canada,Young,2021,0.969675283
+CAN,Canada,Young,2022,0.365911479
+POL,Poland,Young,2004,14.921461818
+POL,Poland,Young,2005,14.502445736
+POL,Poland,Young,2006,11.064172199
+POL,Poland,Young,2007,6.501048615
+POL,Poland,Young,2008,3.255476452
+POL,Poland,Young,2009,3.349724594
+POL,Poland,Young,2010,3.658305994
+POL,Poland,Young,2011,5.376463491
+POL,Poland,Young,2012,6.729292400
+POL,Poland,Young,2013,6.953708528
+POL,Poland,Young,2014,5.721931022
+POL,Poland,Young,2015,6.062887926
+POL,Poland,Young,2016,4.330557880
+POL,Poland,Young,2017,3.173910865
+POL,Poland,Young,2018,1.770333118
+POL,Poland,Young,2019,1.441817817
+POL,Poland,Young,2020,1.638286090
+POL,Poland,Young,2021,1.807343135
+POL,Poland,Young,2022,2.083961819
